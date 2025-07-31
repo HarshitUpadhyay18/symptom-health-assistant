@@ -59,4 +59,4 @@ This is a full-stack web application designed to assist users in identifying pot
     -   The application will be available at `http://localhost:3000`.
 
 ### Video Tutorial
-link - https://drive.google.com/file/d/1TqTFie1V5HRUskgrGDY5gMq6CKiOAMyz/view?usp=drive_link
+link - https://drive.google.com/file/d/1iCLW4Y-AqVwmozvUWOfBrhSSDPDPESa8/view?usp=drive_link
